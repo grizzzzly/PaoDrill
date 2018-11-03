@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PaosList>
+  <Pao>
+    <Number>0</Number>
+    <Person>Spiderman</Person>
+    <Action>projette</Action>
+    <Object>toile d'araignée</Object>
+  </Pao>
+  <Pao>
+    <Number>1</Number>
+    <Person>Thor</Person>
+    <Action>écrase</Action>
+    <Object>marteau</Object>
+  </Pao>
+  <Pao>
+    <Number>2</Number>
+    <Person>Neptune</Person>
+    <Action>brandit</Action>
+    <Object>trident</Object>
+  </Pao>
+  <Pao>
+    <Number>3</Number>
+    <Person>Mars</Person>
+    <Action>combat</Action>
+    <Object>cuirrasse</Object>
+  </Pao>
+  <Pao>
+    <Number>4</Number>
+    <Person>Robocop</Person>
+    <Action>marche lentement</Action>
+    <Object>robot</Object>
+  </Pao>
+  <Pao>
+    <Number>5</Number>
+    <Person>Longtarin</Person>
+    <Action>colle des PV</Action>
+    <Object>matraque</Object>
+  </Pao>
+  <Pao>
+    <Number>6</Number>
+    <Person>Jupiter</Person>
+    <Action>foudroie</Action>
+    <Object>éclair en chocolat</Object>
+  </Pao>
+  <Pao>
+    <Number>7</Number>
+    <Person>Catwoman</Person>
+    <Action>ronronne</Action>
+    <Object>costume en latex</Object>
+  </Pao>
+  <Pao>
+    <Number>8</Number>
+    <Person>Fantasio</Person>
+    <Action>moralise</Action>
+    <Object>turbotraction</Object>
+  </Pao>
+  <Pao>
+    <Number>9</Number>
+    <Person>Obélix</Person>
+    <Action Comment="des sangliers">mange</Action>
+    <Object>menhir</Object>
+  </Pao>
+  <Pao>
+    <Number>00</Number>
+    <Person>Sissi</Person>
+    <Action>fait signe</Action>
+    <Object>tresse</Object>
+  </Pao>
+  <Pao>
+    <Number>01</Number>
+    <Person>Stefan Edberg</Person>
+    <Action>glisse</Action>
+    <Object>aéroglisseur</Object>
+  </Pao>
+  <Pao>
+    <Number>02</Number>
+    <Person>Isaac Newton</Person>
+    <Action>trouve</Action>
+    <Object>pomme</Object>
+  </Pao>
+  <Pao>
+    <Number>03</Number>
+    <Person>Sophie Marceau</Person>
+    <Action>embrasse</Action>
+    <Object>écouteurs</Object>
+  </Pao>
+  <Pao>
+    <Number>04</Number>
+    <Person>Zorglub</Person>
+    <Action>paralyse</Action>
+    <Object>cape</Object>
+  </Pao>
+  <Pao>
+    <Number>05</Number>
+    <Person Comment="dans « Rabbi Jacob »">Salomon</Person>
+    <Action>conduit</Action>
+    <Object>képi</Object>
+  </Pao>
+  <Pao>
+    <Number>06</Number>
+    <Person>Steve Jobs</Person>
+    <Action>présente</Action>
+    <Object>iPhone</Object>
+  </Pao>
+  <Pao>
+    <Number>07</Number>
+    <Person>Stephen King</Person>
+    <Action>imagine</Action>
+    <Object Comment="Christine">voiture</Object>
+  </Pao>
+  <Pao>
+    <Number>08</Number>
+    <Person>Simone Veil</Person>
+    <Action>débat</Action>
+    <Object Comment="déportation">train</Object>
+  </Pao>
+  <Pao>
+    <Number>09</Number>
+    <Person>Spip</Person>
+    <Action>grimpe</Action>
+    <Object>noisette</Object>
+  </Pao>
+  <Pao>
+    <Number>10</Number>
+    <Person>Tom Sawyer</Person>
+    <Action>court</Action>
+    <Object>chapeau de paille</Object>
+  </Pao>
+  <Pao>
+    <Number>11</Number>
+    <Person>Tintin</Person>
+    <Action>s'aventure</Action>
+    <Object>fusée</Object>
+  </Pao>
+  <Pao>
+    <Number>12</Number>
+    <Person>Athéna</Person>
+    <Action>civilise</Action>
+    <Object>rouet</Object>
+  </Pao>
+  <Pao>
+    <Number>13</Number>
+    <Person>Thomas Muster</Person>
+    <Action>frappe</Action>
+    <Object>raquette</Object>
+  </Pao>
+  <Pao>
+    <Number>14</Number>
+    <Person>Tournesol</Person>
+    <Action>déforme</Action>
+    <Object>imperméable</Object>
+  </Pao>
+  <Pao>
+    <Number>15</Number>
+    <Person>Tyrion Lannister</Person>
+    <Action>complote</Action>
+    <Object Comment="contenant de l'alcool">flacon</Object>
+  </Pao>
+  <Pao>
+    <Number>16</Number>
+    <Person>Tommy L. Jones</Person>
+    <Action>enquête</Action>
+    <Object>lunettes noires</Object>
+  </Pao>
+  <Pao>
+    <Number>17</Number>
+    <Person>Etienne Klein</Person>
+    <Action>interroge</Action>
+    <Object>radio</Object>
+  </Pao>
+  <Pao>
+    <Number>18</Number>
+    <Person>Tif</Person>
+    <Action>drague</Action>
+    <Object>heaume</Object>
+  </Pao>
+  <Pao>
+    <Number>19</Number>
+    <Person>Tim Burton</Person>
+    <Action>réalise</Action>
+    <Object>ciseaux</Object>
+  </Pao>
+  <Pao>
+    <Number>20</Number>
+    <Person>Nancy Sinatra</Person>
+    <Action>chante</Action>
+    <Object>bombe</Object>
+  </Pao>
+  <Pao>
+    <Number>21</Number>
+    <Person>Nikola Tesla</Person>
+    <Action>magnétise</Action>
+    <Object>aimant</Object>
+  </Pao>
+  <Pao>
+    <Number>22</Number>
+    <Person>Nono</Person>
+    <Action>fait des blagues</Action>
+    <Object Comment="qu'il mange">clous</Object>
+  </Pao>
+  <Pao>
+    <Number>23</Number>
+    <Person>Nemo</Person>
+    <Action>nage</Action>
+    <Object>bocal</Object>
+  </Pao>
+  <Pao>
+    <Number>24</Number>
+    <Person>Néron</Person>
+    <Action>scandalise</Action>
+    <Object Comment="pour amuser le public">lyre</Object>
+  </Pao>
+  <Pao>
+    <Number>25</Number>
+    <Person>Nikolaï Lobatchevski</Person>
+    <Action>crée</Action>
+    <Object Comment="pour mesurer">règle</Object>
+  </Pao>
+  <Pao>
+    <Number>26</Number>
+    <Person>Norah Jones</Person>
+    <Action Comment="sur scène">preste</Action>
+    <Object>micro</Object>
+  </Pao>
+  <Pao>
+    <Number>27</Number>
+    <Person>Nikita Khrouchtchev</Person>
+    <Action Comment="de l'Occident">se rapproche</Action>
+    <Object>tracteur</Object>
+  </Pao>
+  <Pao>
+    <Number>28</Number>
+    <Person>Enrico Fermi</Person>
+    <Action>randonne</Action>
+    <Object>pile atomique</Object>
+  </Pao>
+  <Pao>
+    <Number>29</Number>
+    <Person>Natalie Portman</Person>
+    <Action>se masturbe</Action>
+    <Object Comment="dans « Black Swan »">lit</Object>
+  </Pao>
+  <Pao>
+    <Number>30</Number>
+    <Person>Marie Slodowska-Curie</Person>
+    <Action>cherche</Action>
+    <Object>bloc de Po</Object>
+  </Pao>
+  <Pao>
+    <Number>31</Number>
+    <Person>Uma Thurman</Person>
+    <Action>danse</Action>
+    <Object>seringue</Object>
+  </Pao>
+  <Pao>
+    <Number>32</Number>
+    <Person>Manowar</Person>
+    <Action>crie</Action>
+    <Object>épée</Object>
+  </Pao>
+  <Pao>
+    <Number>33</Number>
+    <Person>Marilyn Monroe</Person>
+    <Action>rit</Action>
+    <Object Comment="qui se soulève">robe</Object>
+  </Pao>
+  <Pao>
+    <Number>34</Number>
+    <Person>Marsupilami</Person>
+    <Action>saute</Action>
+    <Object>ressort</Object>
+  </Pao>
+  <Pao>
+    <Number>35</Number>
+    <Person>Myriam Leroy</Person>
+    <Action>écrit</Action>
+    <Object>livre</Object>
+  </Pao>
+  <Pao>
+    <Number>36</Number>
+    <Person>Marie Gillain</Person>
+    <Action>appâte</Action>
+    <Object>canne à pêche</Object>
+  </Pao>
+  <Pao>
+    <Number>37</Number>
+    <Person>Marion Cotillard</Person>
+    <Action>trahit</Action>
+    <Object Comment="Batman">poignard</Object>
+  </Pao>
+  <Pao>
+    <Number>38</Number>
+    <Person>Michael Faraday</Person>
+    <Action Comment="étant bibliothécaire">lit</Action>
+    <Object>cage</Object>
+  </Pao>
+  <Pao>
+    <Number>39</Number>
+    <Person>Mario Bros</Person>
+    <Action>répare</Action>
+    <Object>casquette</Object>
+  </Pao>
+  <Pao>
+    <Number>40</Number>
+    <Person>Richard Stallman</Person>
+    <Action>programme</Action>
+    <Object>ordinateur</Object>
+  </Pao>
+  <Pao>
+    <Number>41</Number>
+    <Person>Raymond Devos</Person>
+    <Action>fait de l'esprit</Action>
+    <Object>noeud papillon</Object>
+  </Pao>
+  <Pao>
+    <Number>42</Number>
+    <Person>Renart</Person>
+    <Action>flatte</Action>
+    <Object>bottes hautes</Object>
+  </Pao>
+  <Pao>
+    <Number>43</Number>
+    <Person>Iron Man</Person>
+    <Action>vole</Action>
+    <Object>armure</Object>
+  </Pao>
+  <Pao>
+    <Number>44</Number>
+    <Person>Robert Redford</Person>
+    <Action>propose</Action>
+    <Object Comment="dans « Proposition indécente »">argent</Object>
+  </Pao>
+  <Pao>
+    <Number>45</Number>
+    <Person>Ralph Lauren</Person>
+    <Action>coud</Action>
+    <Object Comment="vêtement">polo</Object>
+  </Pao>
+  <Pao>
+    <Number>46</Number>
+    <Person>Hergé</Person>
+    <Action>dessine</Action>
+    <Object>crayon</Object>
+  </Pao>
+  <Pao>
+    <Number>47</Number>
+    <Person>Robinson Crusoé</Person>
+    <Action>s'échoue</Action>
+    <Object>cabane</Object>
+  </Pao>
+  <Pao>
+    <Number>48</Number>
+    <Person>Richard Feynman</Person>
+    <Action>enseigne</Action>
+    <Object>craie</Object>
+  </Pao>
+  <Pao>
+    <Number>49</Number>
+    <Person>Robert Oppenheimer</Person>
+    <Action>amorce</Action>
+    <Object>bombe nucléaire</Object>
+  </Pao>
+  <Pao>
+    <Number>50</Number>
+    <Person>Albert Einstein</Person>
+    <Action>grimace</Action>
+    <Object>dé</Object>
+  </Pao>
+  <Pao>
+    <Number>51</Number>
+    <Person>Louis de Funès</Person>
+    <Action>fait rire</Action>
+    <Object Comment="de « La Folie des Grandeurs »">carrosse</Object>
+  </Pao>
+  <Pao>
+    <Number>52</Number>
+    <Person>Alfred Nobel</Person>
+    <Action Comment="dans le sens de sponsoriser comme pour son futur prix">supporte</Action>
+    <Object>TNT</Object>
+  </Pao>
+  <Pao>
+    <Number>53</Number>
+    <Person>Elon Musk</Person>
+    <Action>entreprend</Action>
+    <Object Comment="voiture">Tesla</Object>
+  </Pao>
+  <Pao>
+    <Number>54</Number>
+    <Person>Lou Reed</Person>
+    <Action>se drogue</Action>
+    <Object Comment="électrique">guitare</Object>
+  </Pao>
+  <Pao>
+    <Number>55</Number>
+    <Person>Leonhard Euler</Person>
+    <Action Comment="des documents en maths">produit</Action>
+    <Object Comment="même s'il n'en a pas eu…">oeil de verre</Object>
+  </Pao>
+  <Pao>
+    <Number>56</Number>
+    <Person>Alonzo Church</Person>
+    <Action>calcule</Action>
+    <Object>feuille de papier</Object>
+  </Pao>
+  <Pao>
+    <Number>57</Number>
+    <Person>Lauren Cohan</Person>
+    <Action>tire</Action>
+    <Object>zombie</Object>
+  </Pao>
+  <Pao>
+    <Number>58</Number>
+    <Person>Laurent Fignon</Person>
+    <Action>pédale</Action>
+    <Object>petites lunettes</Object>
+  </Pao>
+  <Pao>
+    <Number>59</Number>
+    <Person>Louison Bobet</Person>
+    <Action>peine</Action>
+    <Object>boyau</Object>
+  </Pao>
+  <Pao>
+    <Number>60</Number>
+    <Person>Jules César</Person>
+    <Action>vainc</Action>
+    <Object>couronne de lauriers</Object>
+  </Pao>
+  <Pao>
+    <Number>61</Number>
+    <Person>John Templeton</Person>
+    <Action>investit</Action>
+    <Object>building</Object>
+  </Pao>
+  <Pao>
+    <Number>62</Number>
+    <Person>John Nash</Person>
+    <Action Comment="géométrie différentielle">différencie</Action>
+    <Object Comment="pour sa participation à la théorie des jeux">jeu de société</Object>
+  </Pao>
+  <Pao>
+    <Number>63</Number>
+    <Person>James C. Maxwell</Person>
+    <Action>synthétise</Action>
+    <Object>engrenages</Object>
+  </Pao>
+  <Pao>
+    <Number>64</Number>
+    <Person>Jean Rochefort</Person>
+    <Action>récite</Action>
+    <Object>moustache</Object>
+  </Pao>
+  <Pao>
+    <Number>65</Number>
+    <Person>Sherlock Holmes</Person>
+    <Action>déduit</Action>
+    <Object>loupe</Object>
+  </Pao>
+  <Pao>
+    <Number>66</Number>
+    <Person>Georges Charpak</Person>
+    <Action>invente</Action>
+    <Object>chambre proportionnelle multifils</Object>
+  </Pao>
+  <Pao>
+    <Number>67</Number>
+    <Person>Jennifer Capriati</Person>
+    <Action>sourit</Action>
+    <Object Comment="de tennis">jupe</Object>
+  </Pao>
+  <Pao>
+    <Number>68</Number>
+    <Person>John von Neumann</Person>
+    <Action>mémorise</Action>
+    <Object Comment="parce qu'il en mémorisait des pages entières…">bottin de téléphone</Object>
+  </Pao>
+  <Pao>
+    <Number>69</Number>
+    <Person>Charlie Brown</Person>
+    <Action>déprime</Action>
+    <Object>cacahuètes</Object>
+  </Pao>
+  <Pao>
+    <Number>70</Number>
+    <Person>Clint Eastwood</Person>
+    <Action>poursuit</Action>
+    <Object>44 Magnum</Object>
+  </Pao>
+  <Pao>
+    <Number>71</Number>
+    <Person>Capitaine Haddock</Person>
+    <Action>jure</Action>
+    <Object>bouteille de whisky</Object>
+  </Pao>
+  <Pao>
+    <Number>72</Number>
+    <Person>Keira Knightley</Person>
+    <Action>rêve</Action>
+    <Object Comment="dans « Pride and Prejudice »">balançoire</Object>
+  </Pao>
+  <Pao>
+    <Number>73</Number>
+    <Person>Karl Marx</Person>
+    <Action>philosophe</Action>
+    <Object>barbe</Object>
+  </Pao>
+  <Pao>
+    <Number>74</Number>
+    <Person>Carlo Rubbia</Person>
+    <Action>accélère</Action>
+    <Object>déchets nucléaires</Object>
+  </Pao>
+  <Pao>
+    <Number>75</Number>
+    <Person>Gaston Lagaffe</Person>
+    <Action>bricole</Action>
+    <Object>espadrilles</Object>
+  </Pao>
+  <Pao>
+    <Number>76</Number>
+    <Person>Gueorgui Joukov</Person>
+    <Action>élabore une stratégie</Action>
+    <Object>médailles</Object>
+  </Pao>
+  <Pao>
+    <Number>77</Number>
+    <Person>Karl F. Gauss</Person>
+    <Action>démontre</Action>
+    <Object>bonnet</Object>
+  </Pao>
+  <Pao>
+    <Number>78</Number>
+    <Person>Capitaine Flamme</Person>
+    <Action>navigue</Action>
+    <Object>vaisseau</Object>
+  </Pao>
+  <Pao>
+    <Number>79</Number>
+    <Person>Carole Bouquet</Person>
+    <Action>bande</Action>
+    <Object>arbalète</Object>
+  </Pao>
+  <Pao>
+    <Number>80</Number>
+    <Person>Werner Heisenberg</Person>
+    <Action>quantifie</Action>
+    <Object>matrice</Object>
+  </Pao>
+  <Pao>
+    <Number>81</Number>
+    <Person>François d'Assises</Person>
+    <Action>aide</Action>
+    <Object>toge</Object>
+  </Pao>
+  <Pao>
+    <Number>82</Number>
+    <Person>Philippe Noiret</Person>
+    <Action>venge</Action>
+    <Object>fusil</Object>
+  </Pao>
+  <Pao>
+    <Number>83</Number>
+    <Person>Frédéric Mitterrand</Person>
+    <Action>convainc</Action>
+    <Object>costume</Object>
+  </Pao>
+  <Pao>
+    <Number>84</Number>
+    <Person>Wilhelm Röntgen</Person>
+    <Action>expérimente</Action>
+    <Object>scanner</Object>
+  </Pao>
+  <Pao>
+    <Number>85</Number>
+    <Person>Falbala</Person>
+    <Action>porte</Action>
+    <Object>panier</Object>
+  </Pao>
+  <Pao>
+    <Number>86</Number>
+    <Person>William Sheller</Person>
+    <Action>compose</Action>
+    <Object>piano</Object>
+  </Pao>
+  <Pao>
+    <Number>87</Number>
+    <Person>Vincent Cassel</Person>
+    <Action>simule</Action>
+    <Object>flûte à champagne</Object>
+  </Pao>
+  <Pao>
+    <Number>88</Number>
+    <Person>Franz Ferdinand</Person>
+    <Action Comment="la première GM par son assassinat">déclenche</Action>
+    <Object>photo de famille</Object>
+  </Pao>
+  <Pao>
+    <Number>89</Number>
+    <Person>François Pignon</Person>
+    <Action Comment="les choses">empire</Action>
+    <Object Comment="dans « Le dîner de cons »">allumettes</Object>
+  </Pao>
+  <Pao>
+    <Number>90</Number>
+    <Person>Pete Sampras</Person>
+    <Action>sert</Action>
+    <Object>balle de tennis</Object>
+  </Pao>
+  <Pao>
+    <Number>91</Number>
+    <Person>Bernard Diu</Person>
+    <Action>vulgarise</Action>
+    <Object Comment="même s'il n'est pas l'auteur du livre…">timbre</Object>
+  </Pao>
+  <Pao>
+    <Number>92</Number>
+    <Person>Paul Newman</Person>
+    <Action Comment="à Steve McQueen dans la « Tour infernale »">téléphone</Action>
+    <Object Comment="comme le bâtiment dans la « Tour infernale »">tour</Object>
+  </Pao>
+  <Pao>
+    <Number>93</Number>
+    <Person>Pierre Mondy</Person>
+    <Action>plonge</Action>
+    <Object>long maillot</Object>
+  </Pao>
+  <Pao>
+    <Number>94</Number>
+    <Person>Pierre Richard</Person>
+    <Action>gonfle</Action>
+    <Object>chemise</Object>
+  </Pao>
+  <Pao>
+    <Number>95</Number>
+    <Person>Barry Lyndon</Person>
+    <Action>évite</Action>
+    <Object>pistolet</Object>
+  </Pao>
+  <Pao>
+    <Number>96</Number>
+    <Person>Paige Jennings</Person>
+    <Action>espionne</Action>
+    <Object>faucille</Object>
+  </Pao>
+  <Pao>
+    <Number>97</Number>
+    <Person>Pierre Curie</Person>
+    <Action Comment="la rue, glisse et tombe, ensuite est écrasé par une roue">traverse</Action>
+    <Object Comment="qui l'a tué">roue</Object>
+  </Pao>
+  <Pao>
+    <Number>98</Number>
+    <Person>Pierre Fabre</Person>
+    <Action>soigne</Action>
+    <Object>boîte de paracétamol</Object>
+  </Pao>
+  <Pao>
+    <Number>99</Number>
+    <Person>Barack Obama</Person>
+    <Action>discourt</Action>
+    <Object>tribune</Object>
+  </Pao>
+</PaosList>
