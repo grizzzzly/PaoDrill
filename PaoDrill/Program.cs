@@ -27,7 +27,7 @@ namespace PaoDrill
             }
 
             Console.WriteLine("Which information do you want I give you?");
-            DisplayAvailableChoices("");
+            DisplayAvailableChoices("x");
 
             string givenPropertyType;
             var givenInformationChoice = Console.ReadKey().Key.ToString();
@@ -97,7 +97,7 @@ namespace PaoDrill
             }
             Console.WriteLine();
             Console.WriteLine();
-            if (goodAnswers == totalQuestions)
+            if ((goodAnswers == totalQuestions) & goodAnswers > 0)
             {
                 Console.WriteLine("Super! No error!");
             }
@@ -115,7 +115,8 @@ namespace PaoDrill
                 Console.WriteLine("- action [a]");
             if (String.Compare(optionToRemove, "o", true) != 0)
                 Console.WriteLine("- object [o]");
-            Console.WriteLine("\"x\" to exit.");
+            if (String.Compare(optionToRemove, "x", true) != 0)
+                Console.WriteLine("- exit [x]");
         }
     }
 }
