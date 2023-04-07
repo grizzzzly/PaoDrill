@@ -57,7 +57,8 @@
   <Pao>
     <Number>9</Number>
     <Person>Obélix</Person>
-    <Action Comment="des sangliers">mange</Action>
+    <Action>mange</Action>
+    <ActionComment>des sangliers</ActionComment>
     <Object>menhir</Object>
   </Pao>
   <Pao>
@@ -92,7 +93,8 @@
   </Pao>
   <Pao>
     <Number>05</Number>
-    <Person Comment="dans « Rabbi Jacob »">Salomon</Person>
+    <Person>Salomon</Person>
+    <PersonComment>dans « Rabbi Jacob »</PersonComment>
     <Action>conduit</Action>
     <Object>képi</Object>
   </Pao>
@@ -106,13 +108,15 @@
     <Number>07</Number>
     <Person>Stephen King</Person>
     <Action>imagine</Action>
-    <Object Comment="Christine">voiture</Object>
+    <Object>voiture</Object>
+    <ObjectComment>Christine</ObjectComment>
   </Pao>
   <Pao>
     <Number>08</Number>
     <Person>Simone Veil</Person>
     <Action>débat</Action>
-    <Object Comment="déportation">train</Object>
+    <Object>train</Object>
+    <ObjectComment>déportation</ObjectComment>
   </Pao>
   <Pao>
     <Number>09</Number>
@@ -154,7 +158,8 @@
     <Number>15</Number>
     <Person>Tyrion Lannister</Person>
     <Action>complote</Action>
-    <Object Comment="contenant de l'alcool">flacon</Object>
+    <Object>flacon</Object>
+    <ObjectComment>contenant de l'alcool</ObjectComment>
   </Pao>
   <Pao>
     <Number>16</Number>
@@ -196,7 +201,8 @@
     <Number>22</Number>
     <Person>Nono</Person>
     <Action>fait des blagues</Action>
-    <Object Comment="qu'il mange">clous</Object>
+    <Object>clous</Object>
+    <ObjectComment>qu'il mange</ObjectComment>
   </Pao>
   <Pao>
     <Number>23</Number>
@@ -208,24 +214,28 @@
     <Number>24</Number>
     <Person>Néron</Person>
     <Action>scandalise</Action>
-    <Object Comment="pour amuser le public">lyre</Object>
+    <Object>lyre</Object>
+    <ObjectComment>pour amuser le public</ObjectComment>
   </Pao>
   <Pao>
     <Number>25</Number>
     <Person>Nikolaï Lobatchevski</Person>
     <Action>crée</Action>
-    <Object Comment="pour mesurer">règle</Object>
+    <Object>règle</Object>
+    <ObjectComment>pour mesurer</ObjectComment>
   </Pao>
   <Pao>
     <Number>26</Number>
     <Person>Norah Jones</Person>
-    <Action Comment="sur scène">preste</Action>
+    <Action>preste</Action>
+    <ActionComment>sur scène</ActionComment>
     <Object>micro</Object>
   </Pao>
   <Pao>
     <Number>27</Number>
     <Person>Nikita Khrouchtchev</Person>
-    <Action Comment="de l'Occident">se rapproche</Action>
+    <Action>se rapproche</Action>
+    <ActionComment>de l'Occident</ActionComment>
     <Object>tracteur</Object>
   </Pao>
   <Pao>
@@ -238,7 +248,9 @@
     <Number>29</Number>
     <Person>Natalie Portman</Person>
     <Action>se masturbe</Action>
-    <Object Comment="dans « Black Swan »">lit</Object>
+    <ActionComment>dans « Black Swan »</ActionComment>
+    <Object>lit</Object>
+    <ObjectComment>dans « Black Swan »</ObjectComment>
   </Pao>
   <Pao>
     <Number>30</Number>
@@ -262,7 +274,8 @@
     <Number>33</Number>
     <Person>Marilyn Monroe</Person>
     <Action>rit</Action>
-    <Object Comment="qui se soulève">robe</Object>
+    <Object>robe</Object>
+    <ObjectComment>qui se soulève</ObjectComment>
   </Pao>
   <Pao>
     <Number>34</Number>
@@ -286,12 +299,15 @@
     <Number>37</Number>
     <Person>Marion Cotillard</Person>
     <Action>trahit</Action>
-    <Object Comment="Batman">poignard</Object>
+    <ActionComment>dans Batman</ActionComment>
+    <Object>poignard</Object>
+    <ObjectComment>dans Batman</ObjectComment>
   </Pao>
   <Pao>
     <Number>38</Number>
     <Person>Michael Faraday</Person>
-    <Action Comment="étant bibliothécaire">lit</Action>
+    <Action>lit</Action>
+    <ActionComment>étant bibliothécaire</ActionComment>
     <Object>cage</Object>
   </Pao>
   <Pao>
@@ -328,13 +344,15 @@
     <Number>44</Number>
     <Person>Robert Redford</Person>
     <Action>propose</Action>
-    <Object Comment="dans « Proposition indécente »">argent</Object>
+    <Object>argent</Object>
+    <ObjectComment>dans « Proposition indécente »</ObjectComment>
   </Pao>
   <Pao>
     <Number>45</Number>
     <Person>Ralph Lauren</Person>
     <Action>coud</Action>
-    <Object Comment="vêtement">polo</Object>
+    <Object>polo</Object>
+    <ObjectComment>vêtement</ObjectComment>
   </Pao>
   <Pao>
     <Number>46</Number>
@@ -370,31 +388,37 @@
     <Number>51</Number>
     <Person>Louis de Funès</Person>
     <Action>fait rire</Action>
-    <Object Comment="de « La Folie des Grandeurs »">carrosse</Object>
+    <Object>carrosse</Object>
+    <ObjectComment>de « La Folie des Grandeurs »</ObjectComment>
   </Pao>
   <Pao>
     <Number>52</Number>
     <Person>Alfred Nobel</Person>
-    <Action Comment="dans le sens de sponsoriser comme pour son futur prix">supporte</Action>
+    <Action>supporte</Action>
+    <ActionComment>dans le sens de sponsoriser comme pour son futur prix</ActionComment>
     <Object>TNT</Object>
   </Pao>
   <Pao>
     <Number>53</Number>
     <Person>Elon Musk</Person>
     <Action>entreprend</Action>
-    <Object Comment="voiture">Tesla</Object>
+    <Object>Tesla</Object>
+    <ObjectComment>voiture</ObjectComment>
   </Pao>
   <Pao>
     <Number>54</Number>
     <Person>Lou Reed</Person>
     <Action>se drogue</Action>
-    <Object Comment="électrique">guitare</Object>
+    <Object>guitare</Object>
+    <ObjectComment>électrique</ObjectComment>
   </Pao>
   <Pao>
     <Number>55</Number>
     <Person>Leonhard Euler</Person>
-    <Action Comment="des documents en maths">produit</Action>
-    <Object Comment="même s'il n'en a pas eu…">oeil de verre</Object>
+    <Action>produit</Action>
+    <ActionComment>des documents en maths</ActionComment>
+    <Object>oeil de verre</Object>
+    <ObjectComment>même s'il n'en a pas eu…</ObjectComment>
   </Pao>
   <Pao>
     <Number>56</Number>
@@ -435,8 +459,10 @@
   <Pao>
     <Number>62</Number>
     <Person>John Nash</Person>
-    <Action Comment="géométrie différentielle">différencie</Action>
-    <Object Comment="pour sa participation à la théorie des jeux">jeu de société</Object>
+    <Action>différencie</Action>
+    <ActionComment>géométrie différentielle</ActionComment>
+    <Object>jeu de société</Object>
+    <ObjectComment>pour sa participation à la théorie des jeux</ObjectComment>
   </Pao>
   <Pao>
     <Number>63</Number>
@@ -466,13 +492,15 @@
     <Number>67</Number>
     <Person>Jennifer Capriati</Person>
     <Action>sourit</Action>
-    <Object Comment="de tennis">jupe</Object>
+    <Object>jupe</Object>
+    <ObjectComment>de tennis</ObjectComment>
   </Pao>
   <Pao>
     <Number>68</Number>
     <Person>John von Neumann</Person>
     <Action>mémorise</Action>
-    <Object Comment="parce qu'il en mémorisait des pages entières…">bottin de téléphone</Object>
+    <Object>bottin de téléphone</Object>
+    <ObjectComment>parce qu'il en mémorisait des pages entières…</ObjectComment>
   </Pao>
   <Pao>
     <Number>69</Number>
@@ -496,7 +524,9 @@
     <Number>72</Number>
     <Person>Keira Knightley</Person>
     <Action>rêve</Action>
-    <Object Comment="dans « Pride and Prejudice »">balançoire</Object>
+    <ActionComment>dans « Pride and Prejudice »</ActionComment>
+    <Object>balançoire</Object>
+    <ObjectComment>dans « Pride and Prejudice »</ObjectComment>
   </Pao>
   <Pao>
     <Number>73</Number>
@@ -591,14 +621,17 @@
   <Pao>
     <Number>88</Number>
     <Person>Franz Ferdinand</Person>
-    <Action Comment="la première GM par son assassinat">déclenche</Action>
+    <Action>déclenche</Action>
+    <ActionComment>la première GM par son assassinat</ActionComment>
     <Object>photo de famille</Object>
   </Pao>
   <Pao>
     <Number>89</Number>
     <Person>François Pignon</Person>
-    <Action Comment="les choses">empire</Action>
-    <Object Comment="dans « Le dîner de cons »">allumettes</Object>
+    <Action>empire</Action>
+    <ActionComment>les choses</ActionComment>
+    <Object>allumettes</Object>
+    <ObjectComment>dans « Le dîner de cons »</ObjectComment>
   </Pao>
   <Pao>
     <Number>90</Number>
@@ -610,13 +643,16 @@
     <Number>91</Number>
     <Person>Bernard Diu</Person>
     <Action>vulgarise</Action>
-    <Object Comment="même s'il n'est pas l'auteur du livre…">timbre</Object>
+    <Object>timbre</Object>
+    <ObjectComment>même s'il n'est pas l'auteur du livre…</ObjectComment>
   </Pao>
   <Pao>
     <Number>92</Number>
     <Person>Paul Newman</Person>
-    <Action Comment="à Steve McQueen dans la « Tour infernale »">téléphone</Action>
-    <Object Comment="comme le bâtiment dans la « Tour infernale »">tour</Object>
+    <Action>téléphone</Action>
+    <ActionComment>à Steve McQueen dans la « Tour infernale »</ActionComment>
+    <Object>tour</Object>
+    <ObjectComment>comme le bâtiment dans la « Tour infernale »</ObjectComment>
   </Pao>
   <Pao>
     <Number>93</Number>
@@ -645,8 +681,10 @@
   <Pao>
     <Number>97</Number>
     <Person>Pierre Curie</Person>
-    <Action Comment="la rue, glisse et tombe, ensuite est écrasé par une roue">traverse</Action>
-    <Object Comment="qui l'a tué">roue</Object>
+    <Action>traverse</Action>
+    <ActionComment>la rue, glisse et tombe, ensuite est écrasé par une roue</ActionComment>
+    <Object>roue</Object>
+    <ObjectComment>qui l'a tué</ObjectComment>
   </Pao>
   <Pao>
     <Number>98</Number>

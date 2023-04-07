@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PaosList>
+  <Pao>
+    <Number>9</Number>
+    <Person>Obélix</Person>
+    <Action>mange</Action>
+    <ActionComment>des sangliers</ActionComment>
+    <Object>menhir</Object>
+  </Pao>
+  <!--<Pao>
+    <Number>00</Number>
+    <Person>Sissi</Person>
+    <Action>fait signe</Action>
+    <Object>tresse</Object>
+  </Pao>
+  <Pao>
+    <Number>05</Number>
+    <Person>Salomon</Person>
+    <PersonComment>dans « Rabbi Jacob »</PersonComment>
+    <Action>conduit</Action>
+    <Object>képi</Object>
+  </Pao>-->
+</PaosList>

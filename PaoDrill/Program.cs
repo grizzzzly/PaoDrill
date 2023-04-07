@@ -12,6 +12,7 @@ namespace PaoDrill
         static void Main(string[] args)
         {
             //var repository = new DummyPaosRepository();
+            //var repository = new XmlPaosRepository(AppDomain.CurrentDomain.BaseDirectory + "/DataForDrill/PaosListForTesting.xml");
             var repository = new XmlPaosRepository(AppDomain.CurrentDomain.BaseDirectory + "/DataForDrill/PaosList.xml");
             var paoService = new PaoService(repository);
             int requestedNumberOfQuestions;

@@ -12,7 +12,7 @@ namespace PaoDrill.Repositories
         {
             return new List<Pao>
             {
-                new Pao { Number = "00", Person = "Sissi", Action = "fait signe",  Object = "tresses" },
+                new Pao { Number = "00", Person = "Sissi", Action = "fait signe",  Object = "tresses", ObjectComment = "Je vous assure !" },
                 new Pao { Number = "01", Person = "Stefan Edberg", Action = "glisse", Object = "aéroglisseur"},
                 new Pao { Number = "02", Person = "Isaac Newton", Action = "trouve", Object = "pomme"},
                 new Pao { Number = "03", Person = "Sophie Marceau", Action = "embrasse", Object = "écouteurs"}

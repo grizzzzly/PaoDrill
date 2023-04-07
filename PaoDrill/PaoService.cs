@@ -38,13 +38,28 @@ namespace PaoDrill
             switch (propertyType)
             {
                 case nameof(Pao.Action):
-                    return pao.Action;
+                    {
+                        if (pao.ActionComment?.Length > 0)
+                            pao.Action += " - " + pao.ActionComment;
+
+                        return pao.Action;
+                    }
                 case nameof(Pao.Number):
                     return pao.Number;
                 case nameof(Pao.Object):
-                    return pao.Object;
+                    {
+                        if (pao.ObjectComment?.Length > 0)
+                            pao.Object += " - " + pao.ObjectComment;
+
+                        return pao.Object;
+                    }
                 case nameof(Pao.Person):
-                    return pao.Person;
+                    {
+                        if (pao.PersonComment?.Length > 0)
+                            pao.Person += " - " + pao.PersonComment;
+
+                        return pao.Person;
+                    }
                 default:
                     return String.Empty;
             }
