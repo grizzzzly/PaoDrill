@@ -39,7 +39,7 @@ namespace PaoDrill
             {
                 case nameof(Pao.Action):
                     {
-                        if (pao.ActionComment?.Length > 0)
+                        if (pao.ActionComment?.Length > 0 && pao.Action.IndexOf("-") < 0)
                             pao.Action += " - " + pao.ActionComment;
 
                         return pao.Action;
@@ -48,14 +48,14 @@ namespace PaoDrill
                     return pao.Number;
                 case nameof(Pao.Object):
                     {
-                        if (pao.ObjectComment?.Length > 0)
+                        if (pao.ObjectComment?.Length > 0 && pao.Object.IndexOf("-") < 0)
                             pao.Object += " - " + pao.ObjectComment;
 
                         return pao.Object;
                     }
                 case nameof(Pao.Person):
                     {
-                        if (pao.PersonComment?.Length > 0)
+                        if (pao.PersonComment?.Length > 0 && pao.Person.IndexOf("-") < 0)
                             pao.Person += " - " + pao.PersonComment;
 
                         return pao.Person;
